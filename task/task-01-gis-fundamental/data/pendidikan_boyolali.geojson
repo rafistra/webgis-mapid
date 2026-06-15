@@ -1,0 +1,6197 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-06-15T05:32:45Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1543725480",
+        "amenity": "school",
+        "name": "SMA N 1 Boyolali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5983403,
+          -7.5418321
+        ]
+      },
+      "id": "node/1543725480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1543725493",
+        "amenity": "school",
+        "name": "SMA N 3 Boyolali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5952719,
+          -7.5416354
+        ]
+      },
+      "id": "node/1543725493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1543767392",
+        "amenity": "school",
+        "name": "SMK N Ganesha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5941883,
+          -7.5410823
+        ]
+      },
+      "id": "node/1543767392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1543769865",
+        "amenity": "school",
+        "name": "SMP N 2 Boyolali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.606932,
+          -7.5382793
+        ]
+      },
+      "id": "node/1543769865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1543801288",
+        "amenity": "school",
+        "name": "SMP N 1 Boyolali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5979946,
+          -7.5326393
+        ]
+      },
+      "id": "node/1543801288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1543815363",
+        "amenity": "school",
+        "name": "SMA BK 2 Boyolali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6061968,
+          -7.5458121
+        ]
+      },
+      "id": "node/1543815363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1544735564",
+        "amenity": "school",
+        "name": "SMA N 2 Boyolali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6200297,
+          -7.4924978
+        ]
+      },
+      "id": "node/1544735564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1545440098",
+        "amenity": "school",
+        "name": "SMK Karya Nugraha",
+        "source": "http://www.smk-karyanugraha-by.sch.id/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6030986,
+          -7.5198496
+        ]
+      },
+      "id": "node/1545440098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1545442548",
+        "amenity": "school",
+        "name": "SMP Negeri 3 Boyolali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6009743,
+          -7.5196847
+        ]
+      },
+      "id": "node/1545442548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1545442550",
+        "amenity": "school",
+        "name": "SD Negeri 1 Karanggeneng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6018755,
+          -7.5198921
+        ]
+      },
+      "id": "node/1545442550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1545442552",
+        "amenity": "school",
+        "name": "SD Negeri 2 Karanggeneng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6020311,
+          -7.5196262
+        ]
+      },
+      "id": "node/1545442552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1545537511",
+        "amenity": "school",
+        "name": "SD Negeri Banaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5968167,
+          -7.5232348
+        ]
+      },
+      "id": "node/1545537511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1546335529",
+        "amenity": "school",
+        "name": "SMK Muhammadiyah 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5963509,
+          -7.5304997
+        ]
+      },
+      "id": "node/1546335529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5556313484",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5155784,
+          -7.5515722
+        ]
+      },
+      "id": "node/5556313484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5634821038",
+        "amenity": "school",
+        "name": "SMP N 2 Mojosongo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6103569,
+          -7.5499782
+        ]
+      },
+      "id": "node/5634821038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5641382455",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6218971,
+          -7.5580228
+        ]
+      },
+      "id": "node/5641382455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5647557357",
+        "amenity": "school",
+        "name": "SD Negeri 1 Kemiri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6137633,
+          -7.5484692
+        ]
+      },
+      "id": "node/5647557357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5649492772",
+        "amenity": "school",
+        "name": "SMP Negeri 4 Mojosongo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6230572,
+          -7.5512931
+        ]
+      },
+      "id": "node/5649492772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5800197725",
+        "addr:city": "Boyolali",
+        "addr:street": "Jalan Perintis Kemerdekaan",
+        "amenity": "school",
+        "name": "SMK N 1 Boyolali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5938305,
+          -7.5424925
+        ]
+      },
+      "id": "node/5800197725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7976136363",
+        "addr:city": "Boyolali",
+        "addr:housenumber": "32",
+        "addr:postcode": "57316",
+        "addr:street": "Jalan Kenanga",
+        "amenity": "school",
+        "grades": "7-9",
+        "name": "SMP N 6 Boyolali",
+        "operator": "Nabilla Astriviany",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5939372,
+          -7.5321184
+        ]
+      },
+      "id": "node/7976136363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7976138183",
+        "addr:city": "Boyolali",
+        "addr:postcode": "57316",
+        "addr:street": "Jalan Raya Boyolali-Magelang",
+        "amenity": "school",
+        "grades": "7-9",
+        "name": "SMP N 4 Boyolali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5887713,
+          -7.5319695
+        ]
+      },
+      "id": "node/7976138183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8756956600",
+        "addr:city": "Boyolali",
+        "addr:country": "ID",
+        "addr:housenumber": "KM 7",
+        "addr:postcode": "57385",
+        "addr:street": "Jalan Gemolong-Karanggede",
+        "amenity": "school",
+        "name": "SMP Negeri 1 Klego",
+        "operator": "Goverment",
+        "operator:type": "government_facility-public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7120769,
+          -7.3586395
+        ]
+      },
+      "id": "node/8756956600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9231358343",
+        "addr:city": "Teras, Boyolali",
+        "addr:postcode": "57372",
+        "amenity": "school",
+        "grades": "1-6",
+        "name": "SD Negeri 1 Teras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6558385,
+          -7.5374679
+        ]
+      },
+      "id": "node/9231358343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502835033",
+        "amenity": "school",
+        "name": "SMKN 1 Mojosongo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6128221,
+          -7.5389036
+        ]
+      },
+      "id": "node/9502835033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765028483",
+        "amenity": "school",
+        "name": "SMK KARYA SIMO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6799128,
+          -7.4376793
+        ]
+      },
+      "id": "node/9765028483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765028493",
+        "amenity": "school",
+        "name": "MAN 2 BOYOLALI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6724413,
+          -7.437398
+        ]
+      },
+      "id": "node/9765028493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765028498",
+        "amenity": "school",
+        "name": "SMP N 1 SIMO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6780494,
+          -7.4438586
+        ]
+      },
+      "id": "node/9765028498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765028512",
+        "amenity": "school",
+        "name": "SMK MUHAMMADIYAH 6 SIMO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6823016,
+          -7.4366532
+        ]
+      },
+      "id": "node/9765028512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765043919",
+        "amenity": "school",
+        "name": "PONDOK PESANTREN DARUSY SYAHADAH (PUTRI)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6916893,
+          -7.4200571
+        ]
+      },
+      "id": "node/9765043919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765043922",
+        "amenity": "school",
+        "name": "MTSN 13 BOYOLALI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6875504,
+          -7.4002924
+        ]
+      },
+      "id": "node/9765043922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765043925",
+        "amenity": "school",
+        "name": "SDN 02 TANJUNG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.691045,
+          -7.395492
+        ]
+      },
+      "id": "node/9765043925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765043926",
+        "amenity": "school",
+        "name": "SD N 1 JATEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6909228,
+          -7.3839548
+        ]
+      },
+      "id": "node/9765043926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765043928",
+        "amenity": "school",
+        "name": "SMA N 1 KLEGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6920628,
+          -7.3801629
+        ]
+      },
+      "id": "node/9765043928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765043934",
+        "amenity": "school",
+        "name": "SMP BHINEKA KARYA KLEGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6903939,
+          -7.3595094
+        ]
+      },
+      "id": "node/9765043934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765043948",
+        "amenity": "school",
+        "name": "SD N 02 BADE KLEGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7019204,
+          -7.3547207
+        ]
+      },
+      "id": "node/9765043948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765043952",
+        "amenity": "school",
+        "name": "SD N BADE 01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7072926,
+          -7.3564108
+        ]
+      },
+      "id": "node/9765043952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765743231",
+        "amenity": "school",
+        "name": "SMP N 01 Andong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7510125,
+          -7.3695209
+        ]
+      },
+      "id": "node/9765743231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765743236",
+        "amenity": "school",
+        "name": "SMP Muhammadiyah 4 Andong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7621092,
+          -7.3752505
+        ]
+      },
+      "id": "node/9765743236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765743241",
+        "amenity": "school",
+        "name": "MTsN 01 Boyolali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7696039,
+          -7.3760334
+        ]
+      },
+      "id": "node/9765743241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765743242",
+        "amenity": "school",
+        "name": "SMK Muhammadiyah 02 Andong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7710326,
+          -7.3766342
+        ]
+      },
+      "id": "node/9765743242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765801465",
+        "amenity": "school",
+        "name": "SMP N 01 Karanggede"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6540373,
+          -7.363984
+        ]
+      },
+      "id": "node/9765801465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765898251",
+        "amenity": "school",
+        "name": "SD N 01 Sambi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6962017,
+          -7.4868554
+        ]
+      },
+      "id": "node/9765898251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765898253",
+        "amenity": "school",
+        "name": "SMK Muhammadiyah 01 Boyolali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6952614,
+          -7.4854468
+        ]
+      },
+      "id": "node/9765898253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765898255",
+        "amenity": "school",
+        "name": "SD N 02 Sambi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6953339,
+          -7.4819149
+        ]
+      },
+      "id": "node/9765898255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765898256",
+        "amenity": "school",
+        "name": "SMP N 01 Sambi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6955427,
+          -7.4793585
+        ]
+      },
+      "id": "node/9765898256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765898261",
+        "amenity": "school",
+        "name": "SD N 02 Jagoan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.697903,
+          -7.4747749
+        ]
+      },
+      "id": "node/9765898261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765898276",
+        "amenity": "school",
+        "name": "SD N 02 Sobokerto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7339467,
+          -7.4965314
+        ]
+      },
+      "id": "node/9765898276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765898277",
+        "amenity": "university",
+        "name": "Kampus INDOSIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7338451,
+          -7.4969062
+        ]
+      },
+      "id": "node/9765898277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765898284",
+        "amenity": "school",
+        "name": "SD Taruban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7492727,
+          -7.4979943
+        ]
+      },
+      "id": "node/9765898284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765898285",
+        "amenity": "school",
+        "name": "SLB ABCD Tunas Pembangunan 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7489474,
+          -7.4980104
+        ]
+      },
+      "id": "node/9765898285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765898287",
+        "amenity": "school",
+        "name": "MI Muhammadiyah PK Kenteng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7464045,
+          -7.4968435
+        ]
+      },
+      "id": "node/9765898287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765898299",
+        "amenity": "school",
+        "name": "SDIP Al-Madinah Grenjeng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7427406,
+          -7.4831386
+        ]
+      },
+      "id": "node/9765898299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765898300",
+        "amenity": "school",
+        "name": "SMPIP & MA Al-Madinah (Pondok Putri)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7437489,
+          -7.4826832
+        ]
+      },
+      "id": "node/9765898300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765898301",
+        "amenity": "school",
+        "name": "Pondok Pesantren Al-Madinah Nogosari Putri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7440009,
+          -7.4821511
+        ]
+      },
+      "id": "node/9765898301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765898303",
+        "amenity": "school",
+        "name": "MI Muhammadiyah Grinting"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7466955,
+          -7.4702205
+        ]
+      },
+      "id": "node/9765898303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765898305",
+        "amenity": "school",
+        "name": "SD N 02 Tegalgiri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7415903,
+          -7.4753533
+        ]
+      },
+      "id": "node/9765898305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765898307",
+        "amenity": "school",
+        "name": "SD N 01 Tegalgiri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7431523,
+          -7.4713382
+        ]
+      },
+      "id": "node/9765898307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765898308",
+        "amenity": "school",
+        "name": "Madrasah Diniyah Awaliyah Al-Muslimin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7441245,
+          -7.4669445
+        ]
+      },
+      "id": "node/9765898308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765918017",
+        "amenity": "school",
+        "name": "SMP N 02 Nogosari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7639179,
+          -7.4595296
+        ]
+      },
+      "id": "node/9765918017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765918020",
+        "amenity": "school",
+        "name": "MI Muhammadiyah Karanglo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7581947,
+          -7.4618717
+        ]
+      },
+      "id": "node/9765918020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765918033",
+        "amenity": "school",
+        "name": "SD N Potroyanan 01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7537928,
+          -7.4869038
+        ]
+      },
+      "id": "node/9765918033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765918035",
+        "amenity": "school",
+        "name": "SMP Islam Terpadu Al-Madinah Nogosari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7496968,
+          -7.4872662
+        ]
+      },
+      "id": "node/9765918035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765918048",
+        "amenity": "school",
+        "name": "SD Manggung 01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.779741,
+          -7.5005414
+        ]
+      },
+      "id": "node/9765918048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765935214",
+        "amenity": "school",
+        "name": "SD N 03 Kismoyoso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.784401,
+          -7.5070086
+        ]
+      },
+      "id": "node/9765935214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765963818",
+        "amenity": "school",
+        "name": "SD N Kismoyoso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7963702,
+          -7.5104173
+        ]
+      },
+      "id": "node/9765963818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765963820",
+        "amenity": "school",
+        "name": "MI Muhammadiyah Kismoyoso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.8009984,
+          -7.5070903
+        ]
+      },
+      "id": "node/9765963820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765966856",
+        "amenity": "school",
+        "name": "SMK Dwija Darma Boyolali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6203797,
+          -7.5386996
+        ]
+      },
+      "id": "node/9765966856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9766000668",
+        "amenity": "school",
+        "name": "SD N Sawahan 03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.8139543,
+          -7.5201008
+        ]
+      },
+      "id": "node/9766000668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9766000672",
+        "amenity": "school",
+        "name": "SD N 02 Sawahan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.8067776,
+          -7.5226496
+        ]
+      },
+      "id": "node/9766000672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9766000673",
+        "amenity": "school",
+        "name": "SD N 03 Pandean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.8078776,
+          -7.5165534
+        ]
+      },
+      "id": "node/9766000673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9766000679",
+        "amenity": "school",
+        "name": "MIM Al-Akbar Pandeyan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7988492,
+          -7.5153328
+        ]
+      },
+      "id": "node/9766000679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9766000683",
+        "amenity": "school",
+        "name": "SD N Pandean 02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7925858,
+          -7.5148119
+        ]
+      },
+      "id": "node/9766000683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9766000687",
+        "amenity": "school",
+        "name": "SMA N 01 Ngemplak, Boyolali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7832219,
+          -7.513662
+        ]
+      },
+      "id": "node/9766000687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9766000690",
+        "amenity": "school",
+        "name": "SD N 01 Donohudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7818162,
+          -7.5126342
+        ]
+      },
+      "id": "node/9766000690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9766000691",
+        "amenity": "school",
+        "name": "SD N 03 Donohudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7816808,
+          -7.5131088
+        ]
+      },
+      "id": "node/9766000691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9766000699",
+        "amenity": "school",
+        "name": "SMP Muhammadiyah 09 Boyolali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7976927,
+          -7.5248738
+        ]
+      },
+      "id": "node/9766000699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9766000700",
+        "amenity": "school",
+        "name": "SMP N 02 Ngemplak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7949352,
+          -7.5265843
+        ]
+      },
+      "id": "node/9766000700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9766306670",
+        "amenity": "school",
+        "name": "MI Al-Islam 02 Ngesrep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7456811,
+          -7.5240328
+        ]
+      },
+      "id": "node/9766306670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9766306671",
+        "amenity": "school",
+        "name": "Pondok Pesantren Al-Ihsan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.745513,
+          -7.5245791
+        ]
+      },
+      "id": "node/9766306671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9766306675",
+        "amenity": "school",
+        "name": "MTs N Ngemplak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7389327,
+          -7.5231206
+        ]
+      },
+      "id": "node/9766306675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9766306686",
+        "amenity": "school",
+        "name": "SD N 01 Ngargorejo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7239575,
+          -7.5203565
+        ]
+      },
+      "id": "node/9766306686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9766306694",
+        "amenity": "school",
+        "name": "MI Miftahul Ulum Canden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7080504,
+          -7.5103756
+        ]
+      },
+      "id": "node/9766306694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9766306695",
+        "amenity": "school",
+        "name": "Pondok Pesantren Muhammadiyah Manafi'ul Ulum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7073075,
+          -7.5130826
+        ]
+      },
+      "id": "node/9766306695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9766306697",
+        "amenity": "school",
+        "name": "SD N Canden 02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7044437,
+          -7.5115666
+        ]
+      },
+      "id": "node/9766306697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9766306699",
+        "amenity": "school",
+        "name": "SD N 01 Canden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6997003,
+          -7.5060401
+        ]
+      },
+      "id": "node/9766306699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9766306708",
+        "amenity": "school",
+        "name": "MIN Jagoan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7032581,
+          -7.470229
+        ]
+      },
+      "id": "node/9766306708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9766306710",
+        "amenity": "school",
+        "name": "SD N 01 Jagoan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7020935,
+          -7.4646913
+        ]
+      },
+      "id": "node/9766306710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9766321635",
+        "amenity": "school",
+        "name": "SD N Ngrandu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7155723,
+          -7.4504454
+        ]
+      },
+      "id": "node/9766321635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9766321640",
+        "amenity": "school",
+        "name": "MTs N Temon, Simo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7263238,
+          -7.4500064
+        ]
+      },
+      "id": "node/9766321640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9766321642",
+        "amenity": "school",
+        "name": "MIN 7 Boyolali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7268683,
+          -7.4496766
+        ]
+      },
+      "id": "node/9766321642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9766321643",
+        "amenity": "school",
+        "name": "MA Raudlatul Ma'arif"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7273511,
+          -7.4510702
+        ]
+      },
+      "id": "node/9766321643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767342755",
+        "amenity": "school",
+        "name": "SD N 01 Bantengan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.644984,
+          -7.3825544
+        ]
+      },
+      "id": "node/9767342755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767342766",
+        "amenity": "school",
+        "name": "SMP N 02 Karanggede"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6354298,
+          -7.3952402
+        ]
+      },
+      "id": "node/9767342766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767342782",
+        "amenity": "school",
+        "name": "SD N Pentur 01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6356826,
+          -7.4435336
+        ]
+      },
+      "id": "node/9767342782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767342791",
+        "amenity": "school",
+        "name": "SMP Karya Dharma Veteran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6303304,
+          -7.465236
+        ]
+      },
+      "id": "node/9767342791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767342793",
+        "amenity": "school",
+        "name": "SMP N 02 Sambi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6528435,
+          -7.4648009
+        ]
+      },
+      "id": "node/9767342793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767342803",
+        "amenity": "school",
+        "name": "SD N 01 Nglembu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6622853,
+          -7.4486262
+        ]
+      },
+      "id": "node/9767342803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767342804",
+        "amenity": "school",
+        "name": "MI Muhammadiyah Nglembu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6647223,
+          -7.4463494
+        ]
+      },
+      "id": "node/9767342804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767342810",
+        "amenity": "school",
+        "name": "MTs N Walen Simo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6414975,
+          -7.4416204
+        ]
+      },
+      "id": "node/9767342810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767342815",
+        "amenity": "school",
+        "name": "SMP N 03 Simo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6541259,
+          -7.4388002
+        ]
+      },
+      "id": "node/9767342815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767430022",
+        "amenity": "school",
+        "name": "SD N 01 Tempuran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6643659,
+          -7.4369519
+        ]
+      },
+      "id": "node/9767430022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767430023",
+        "amenity": "school",
+        "name": "SD N 02 Tempuran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6649994,
+          -7.4370081
+        ]
+      },
+      "id": "node/9767430023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767430039",
+        "amenity": "school",
+        "name": "SMKN 01 Sambi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.667394,
+          -7.4844814
+        ]
+      },
+      "id": "node/9767430039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767777016",
+        "amenity": "school",
+        "name": "SD N 01 Canden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6981509,
+          -7.514484
+        ]
+      },
+      "id": "node/9767777016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767780017",
+        "amenity": "school",
+        "name": "SD N 02 Trayu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6973247,
+          -7.514859
+        ]
+      },
+      "id": "node/9767780017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767780019",
+        "amenity": "school",
+        "name": "SD N 01 Batan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.704684,
+          -7.5333985
+        ]
+      },
+      "id": "node/9767780019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767780025",
+        "amenity": "school",
+        "name": "SD N 02 Batan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6978385,
+          -7.5308772
+        ]
+      },
+      "id": "node/9767780025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767780027",
+        "amenity": "school",
+        "name": "MIM Kerten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6942682,
+          -7.5288088
+        ]
+      },
+      "id": "node/9767780027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767780036",
+        "amenity": "school",
+        "name": "SD N 02 Ketaon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6757304,
+          -7.5345337
+        ]
+      },
+      "id": "node/9767780036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767780043",
+        "amenity": "school",
+        "name": "SD N 03 Ketaon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6729479,
+          -7.5296861
+        ]
+      },
+      "id": "node/9767780043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767780051",
+        "amenity": "school",
+        "name": "Mojolegi State Elementary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.657132,
+          -7.5356669
+        ]
+      },
+      "id": "node/9767780051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767780056",
+        "amenity": "school",
+        "name": "SMP N 03 Teras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6604688,
+          -7.5227485
+        ]
+      },
+      "id": "node/9767780056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767780069",
+        "amenity": "school",
+        "name": "Tawangsari State Elementary School 02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6663554,
+          -7.5140637
+        ]
+      },
+      "id": "node/9767780069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767780072",
+        "amenity": "school",
+        "name": "SDN 01 Gumurejo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6747006,
+          -7.5207935
+        ]
+      },
+      "id": "node/9767780072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767780081",
+        "amenity": "school",
+        "name": "MI Muhammadiyah Tanjungsari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6822501,
+          -7.5235126
+        ]
+      },
+      "id": "node/9767780081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767780096",
+        "amenity": "school",
+        "name": "SD N 01 Jatisari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6895631,
+          -7.503674
+        ]
+      },
+      "id": "node/9767780096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767780099",
+        "amenity": "school",
+        "name": "SD N 02 Jatisari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6894002,
+          -7.4963739
+        ]
+      },
+      "id": "node/9767780099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768541489",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6342398,
+          -7.3079104
+        ]
+      },
+      "id": "node/9768541489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768541496",
+        "amenity": "school",
+        "name": "SD N Bandung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6545845,
+          -7.3018757
+        ]
+      },
+      "id": "node/9768541496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768541498",
+        "amenity": "school",
+        "name": "SMK Muhammadiyah 07 Wonosegoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6572212,
+          -7.3127997
+        ]
+      },
+      "id": "node/9768541498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768541499",
+        "amenity": "school",
+        "name": "SD Muhammadiyah PK Wonosegoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6587832,
+          -7.3123107
+        ]
+      },
+      "id": "node/9768541499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768541504",
+        "amenity": "school",
+        "name": "SMP N 01 Wonosegoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6661874,
+          -7.30574
+        ]
+      },
+      "id": "node/9768541504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768541506",
+        "amenity": "school",
+        "name": "SD N 01 Wonoswgoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6674517,
+          -7.3057319
+        ]
+      },
+      "id": "node/9768541506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768541508",
+        "amenity": "school",
+        "name": "SMK N 01 Wonosegoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6701512,
+          -7.3045179
+        ]
+      },
+      "id": "node/9768541508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768543617",
+        "amenity": "school",
+        "name": "SD N Banyusri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7010475,
+          -7.2891857
+        ]
+      },
+      "id": "node/9768543617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768543625",
+        "amenity": "school",
+        "name": "SD N 03 Kemusu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7256003,
+          -7.2898658
+        ]
+      },
+      "id": "node/9768543625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768543627",
+        "amenity": "school",
+        "name": "SD N 01 Kemusu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7364942,
+          -7.2881132
+        ]
+      },
+      "id": "node/9768543627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768543633",
+        "amenity": "school",
+        "name": "SD N 01 Genengsari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7447756,
+          -7.2939218
+        ]
+      },
+      "id": "node/9768543633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768543635",
+        "amenity": "school",
+        "name": "SMP N 02 Kemusu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7506042,
+          -7.2889002
+        ]
+      },
+      "id": "node/9768543635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768543640",
+        "amenity": "school",
+        "name": "SMA N 01 Kemusu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7525436,
+          -7.3127423
+        ]
+      },
+      "id": "node/9768543640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768543644",
+        "amenity": "school",
+        "name": "SMP N 01 Kemusu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7506642,
+          -7.3055332
+        ]
+      },
+      "id": "node/9768543644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768598064",
+        "amenity": "school",
+        "name": "SD N 02 Semawung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7616473,
+          -7.3308553
+        ]
+      },
+      "id": "node/9768598064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768598070",
+        "amenity": "school",
+        "name": "SD N Turunan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7744526,
+          -7.328338
+        ]
+      },
+      "id": "node/9768598070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768598076",
+        "amenity": "school",
+        "name": "An-Nashiriah Boyolali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7584711,
+          -7.3519977
+        ]
+      },
+      "id": "node/9768598076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768598082",
+        "amenity": "school",
+        "name": "MI Choiriyah Tangkisan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7436448,
+          -7.3447541
+        ]
+      },
+      "id": "node/9768598082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768598084",
+        "amenity": "school",
+        "name": "SMK N 01 Klego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7402639,
+          -7.3430405
+        ]
+      },
+      "id": "node/9768598084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768598087",
+        "amenity": "school",
+        "name": "SD N Karangmojo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7388157,
+          -7.3448984
+        ]
+      },
+      "id": "node/9768598087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768598091",
+        "amenity": "school",
+        "name": "SD N Munggur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7440157,
+          -7.3533503
+        ]
+      },
+      "id": "node/9768598091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768598096",
+        "amenity": "school",
+        "name": "MI Muhammadiyah Munggur, Andong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7403204,
+          -7.3542369
+        ]
+      },
+      "id": "node/9768598096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768598100",
+        "amenity": "school",
+        "name": "SD N 02 Sumberagung'"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7354953,
+          -7.3581295
+        ]
+      },
+      "id": "node/9768598100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768598105",
+        "amenity": "school",
+        "name": "MI Islamiyah Karangpakel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7264508,
+          -7.3524945
+        ]
+      },
+      "id": "node/9768598105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771042718",
+        "amenity": "school",
+        "name": "SD N 01 Klakah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4043214,
+          -7.5019471
+        ]
+      },
+      "id": "node/9771042718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771042736",
+        "amenity": "school",
+        "name": "SMK N 01 Selo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4585866,
+          -7.5005637
+        ]
+      },
+      "id": "node/9771042736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771042742",
+        "amenity": "school",
+        "name": "SMP N 01 Selo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4692491,
+          -7.4987624
+        ]
+      },
+      "id": "node/9771042742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771042744",
+        "amenity": "school",
+        "name": "SD N Sepandan Selo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4806619,
+          -7.500135
+        ]
+      },
+      "id": "node/9771042744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771042773",
+        "amenity": "school",
+        "name": "SMPIP Al-Madinah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.50984,
+          -7.5052124
+        ]
+      },
+      "id": "node/9771042773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771042779",
+        "amenity": "school",
+        "name": "SD N 02 Tumang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5162238,
+          -7.5007858
+        ]
+      },
+      "id": "node/9771042779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771042792",
+        "amenity": "school",
+        "name": "SD N 03 Tumang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5239155,
+          -7.494234
+        ]
+      },
+      "id": "node/9771042792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771042832",
+        "amenity": "school",
+        "name": "SD N 01 Cepogo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5176814,
+          -7.5150989
+        ]
+      },
+      "id": "node/9771042832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771042839",
+        "amenity": "school",
+        "name": "SMP N 01 Cepogo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5279543,
+          -7.5154706
+        ]
+      },
+      "id": "node/9771042839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771042842",
+        "amenity": "school",
+        "name": "SMA N 01 Cepogo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5398562,
+          -7.5202844
+        ]
+      },
+      "id": "node/9771042842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771042872",
+        "amenity": "school",
+        "name": "SMP N 02 Cepogo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5106182,
+          -7.5244533
+        ]
+      },
+      "id": "node/9771042872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771042878",
+        "amenity": "school",
+        "name": "SD N 02 Jombang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5121557,
+          -7.5352198
+        ]
+      },
+      "id": "node/9771042878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771142529",
+        "amenity": "school",
+        "name": "SMP N 02 Musuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5222999,
+          -7.5596558
+        ]
+      },
+      "id": "node/9771142529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771142595",
+        "amenity": "school",
+        "name": "SD N Pagerjurang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5602779,
+          -7.5787433
+        ]
+      },
+      "id": "node/9771142595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771145587",
+        "amenity": "school",
+        "name": "SD Islam International Al-Abidin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6237953,
+          -7.5528356
+        ]
+      },
+      "id": "node/9771145587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771145630",
+        "amenity": "school",
+        "name": "SD N 03 Singosari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5842277,
+          -7.5823569
+        ]
+      },
+      "id": "node/9771145630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771563157",
+        "amenity": "school",
+        "name": "SD N 01 Ngaru-Aru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.680403,
+          -7.5434894
+        ]
+      },
+      "id": "node/9771563157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771563178",
+        "amenity": "school",
+        "name": "SD Muhammadiyah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6775341,
+          -7.5494906
+        ]
+      },
+      "id": "node/9771563178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771563179",
+        "amenity": "school",
+        "name": "SD N Bendan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6743328,
+          -7.5474357
+        ]
+      },
+      "id": "node/9771563179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771563182",
+        "amenity": "school",
+        "name": "SD N 02 Bendan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6728667,
+          -7.5427426
+        ]
+      },
+      "id": "node/9771563182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771563185",
+        "amenity": "school",
+        "name": "MTs & SMP Islam Yosodipuro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6709096,
+          -7.5505681
+        ]
+      },
+      "id": "node/9771563185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771563188",
+        "amenity": "school",
+        "name": "Banjarsari State Elementary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6662432,
+          -7.5370105
+        ]
+      },
+      "id": "node/9771563188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771563191",
+        "amenity": "school",
+        "name": "SMP N 02 Teras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6582893,
+          -7.5362527
+        ]
+      },
+      "id": "node/9771563191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771563202",
+        "amenity": "school",
+        "name": "SD N Barengan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6611041,
+          -7.5519336
+        ]
+      },
+      "id": "node/9771563202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771563206",
+        "amenity": "school",
+        "name": "SD N Salakan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6604077,
+          -7.5644752
+        ]
+      },
+      "id": "node/9771563206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771563209",
+        "amenity": "school",
+        "name": "SD N Balangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6514007,
+          -7.5500434
+        ]
+      },
+      "id": "node/9771563209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771563214",
+        "amenity": "school",
+        "name": "SD N Cemoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6462179,
+          -7.5406314
+        ]
+      },
+      "id": "node/9771563214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771684030",
+        "amenity": "school",
+        "name": "SD N Ngadirejo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6312468,
+          -7.5437061
+        ]
+      },
+      "id": "node/9771684030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771684036",
+        "amenity": "school",
+        "name": "SD N Masahan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6273082,
+          -7.535657
+        ]
+      },
+      "id": "node/9771684036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774065939",
+        "amenity": "school",
+        "name": "SMP N 03 Mojosongo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6285975,
+          -7.5315469
+        ]
+      },
+      "id": "node/9774065939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774065940",
+        "amenity": "school",
+        "name": "SD N 02 Kragilan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6292094,
+          -7.5302269
+        ]
+      },
+      "id": "node/9774065940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774065945",
+        "amenity": "school",
+        "name": "MI Nurul Ihsan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6345861,
+          -7.5315551
+        ]
+      },
+      "id": "node/9774065945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774065958",
+        "amenity": "school",
+        "name": "SD N 02 Metuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6257926,
+          -7.5116821
+        ]
+      },
+      "id": "node/9774065958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774065962",
+        "amenity": "school",
+        "name": "SD N 01 Metuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6293677,
+          -7.5096426
+        ]
+      },
+      "id": "node/9774065962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774065980",
+        "amenity": "school",
+        "name": "PONPES Jannatul Qur'an Putera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6044528,
+          -7.5029283
+        ]
+      },
+      "id": "node/9774065980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774065988",
+        "amenity": "university",
+        "name": "STIKES Estu Utomo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6188528,
+          -7.4973293
+        ]
+      },
+      "id": "node/9774065988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774065994",
+        "amenity": "school",
+        "name": "SD N 03 Mudal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6124904,
+          -7.504375
+        ]
+      },
+      "id": "node/9774065994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774065997",
+        "amenity": "school",
+        "name": "PONPES Darul Ilmi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6109658,
+          -7.5045261
+        ]
+      },
+      "id": "node/9774065997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774066012",
+        "amenity": "school",
+        "name": "PONPES Ma'hadul Qur'an"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5939372,
+          -7.5146739
+        ]
+      },
+      "id": "node/9774066012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774069520",
+        "amenity": "school",
+        "name": "SD N 02 Kiringan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5980725,
+          -7.5104008
+        ]
+      },
+      "id": "node/9774069520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774069527",
+        "amenity": "school",
+        "name": "TK Pertiwi Kiringan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5969433,
+          -7.5103662
+        ]
+      },
+      "id": "node/9774069527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774069529",
+        "amenity": "school",
+        "name": "SD N 01 Kiringan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5964195,
+          -7.5103692
+        ]
+      },
+      "id": "node/9774069529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774069531",
+        "amenity": "school",
+        "name": "SD N 04 Kiringan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.595026,
+          -7.5059209
+        ]
+      },
+      "id": "node/9774069531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774069537",
+        "amenity": "school",
+        "name": "SD N 03 Kiringan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5939398,
+          -7.5015201
+        ]
+      },
+      "id": "node/9774069537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774356416",
+        "amenity": "school",
+        "name": "Mulyosari State Elementary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5851659,
+          -7.5044554
+        ]
+      },
+      "id": "node/9774356416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774367320",
+        "amenity": "school",
+        "name": "SD N 03 Penggung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5752952,
+          -7.4997343
+        ]
+      },
+      "id": "node/9774367320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774367329",
+        "amenity": "school",
+        "name": "SD N 02 Bandung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5670616,
+          -7.4905591
+        ]
+      },
+      "id": "node/9774367329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774367341",
+        "amenity": "school",
+        "name": "MI Nurul Huda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5678463,
+          -7.502603
+        ]
+      },
+      "id": "node/9774367341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774367347",
+        "amenity": "school",
+        "name": "SD N Krikil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5574043,
+          -7.505345
+        ]
+      },
+      "id": "node/9774367347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774367352",
+        "amenity": "school",
+        "name": "MTs N 07 Boyolali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5415956,
+          -7.5102649
+        ]
+      },
+      "id": "node/9774367352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774367353",
+        "amenity": "school",
+        "name": "MA Ma'arif"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5417318,
+          -7.5097872
+        ]
+      },
+      "id": "node/9774367353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774367355",
+        "amenity": "school",
+        "name": "RA Muslimat NU IV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5432705,
+          -7.5092915
+        ]
+      },
+      "id": "node/9774367355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774367362",
+        "amenity": "school",
+        "name": "SD N Bakulan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.553244,
+          -7.5133851
+        ]
+      },
+      "id": "node/9774367362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9775051133",
+        "amenity": "school",
+        "name": "SD N 01 Winong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5827886,
+          -7.5168663
+        ]
+      },
+      "id": "node/9775051133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9775051138",
+        "amenity": "school",
+        "name": "SD N 03 Winong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5857917,
+          -7.5266061
+        ]
+      },
+      "id": "node/9775051138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9775051141",
+        "amenity": "school",
+        "name": "SMP N 04 Boyolali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5885729,
+          -7.5312809
+        ]
+      },
+      "id": "node/9775051141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9775051147",
+        "amenity": "school",
+        "name": "SD N Randu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5611789,
+          -7.5277579
+        ]
+      },
+      "id": "node/9775051147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9775051153",
+        "amenity": "school",
+        "name": "SD N 02 Jelok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5612418,
+          -7.5301737
+        ]
+      },
+      "id": "node/9775051153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9775051166",
+        "amenity": "school",
+        "name": "SD N 01 Musuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.55722,
+          -7.5364617
+        ]
+      },
+      "id": "node/9775051166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9775051168",
+        "amenity": "school",
+        "name": "SMP N 01 Musuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5571126,
+          -7.5376006
+        ]
+      },
+      "id": "node/9775051168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9775051173",
+        "amenity": "school",
+        "name": "SD N 02 Musuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5523708,
+          -7.5410236
+        ]
+      },
+      "id": "node/9775051173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9775051178",
+        "amenity": "school",
+        "name": "SD N 03 Musuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5422851,
+          -7.5434808
+        ]
+      },
+      "id": "node/9775051178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9775153978",
+        "amenity": "school",
+        "name": "SD N 02 Cabean Kunti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5325342,
+          -7.5011238
+        ]
+      },
+      "id": "node/9775153978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9775153980",
+        "amenity": "school",
+        "name": "PONPES Bahrul Hidayah Al-Mukaromah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5329878,
+          -7.5002799
+        ]
+      },
+      "id": "node/9775153980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9775153982",
+        "amenity": "school",
+        "name": "SD N 02 Cabean Kunti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5352187,
+          -7.5016444
+        ]
+      },
+      "id": "node/9775153982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9775153987",
+        "amenity": "school",
+        "name": "MI Islamiyah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5381707,
+          -7.5004808
+        ]
+      },
+      "id": "node/9775153987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9775153989",
+        "amenity": "school",
+        "name": "SD N 01 Cabean Kunti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5390488,
+          -7.4991918
+        ]
+      },
+      "id": "node/9775153989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9775154002",
+        "amenity": "school",
+        "name": "SD N 02 Candigatak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5597256,
+          -7.4993942
+        ]
+      },
+      "id": "node/9775154002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9775154005",
+        "amenity": "school",
+        "name": "MI Al-Habib"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5625447,
+          -7.5015783
+        ]
+      },
+      "id": "node/9775154005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9775154006",
+        "amenity": "school",
+        "name": "PONPES AL+l-Huda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5639682,
+          -7.5011353
+        ]
+      },
+      "id": "node/9775154006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9775154014",
+        "amenity": "school",
+        "name": "PONPES Bahrurrohmah Al-Hidayah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5558172,
+          -7.4932265
+        ]
+      },
+      "id": "node/9775154014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9775176019",
+        "amenity": "school",
+        "name": "SD N Wangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5507302,
+          -7.4865326
+        ]
+      },
+      "id": "node/9775176019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9775176025",
+        "amenity": "school",
+        "name": "SD N Banyuanyar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5489966,
+          -7.4791656
+        ]
+      },
+      "id": "node/9775176025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776239016",
+        "amenity": "school",
+        "name": "SMP N 03 Cepogo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5225566,
+          -7.4897241
+        ]
+      },
+      "id": "node/9776239016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776303322",
+        "amenity": "school",
+        "name": "SD N 02 Kembang Kuning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5219312,
+          -7.4848144
+        ]
+      },
+      "id": "node/9776303322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776303323",
+        "amenity": "school",
+        "name": "TPQ Nurul Khasanah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5197298,
+          -7.4848916
+        ]
+      },
+      "id": "node/9776303323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776303328",
+        "amenity": "school",
+        "name": "SD N Sidorejo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5094344,
+          -7.4831723
+        ]
+      },
+      "id": "node/9776303328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776303337",
+        "amenity": "school",
+        "name": "SD N Gunungsari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.502829,
+          -7.4911199
+        ]
+      },
+      "id": "node/9776303337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776303341",
+        "amenity": "school",
+        "name": "SD N Senden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4925534,
+          -7.4895766
+        ]
+      },
+      "id": "node/9776303341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776303342",
+        "amenity": "school",
+        "name": "Sanggar Budi Rahayu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4924363,
+          -7.4896041
+        ]
+      },
+      "id": "node/9776303342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776303353",
+        "amenity": "school",
+        "name": "TPA Tarubatang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4919002,
+          -7.4980131
+        ]
+      },
+      "id": "node/9776303353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776303360",
+        "amenity": "school",
+        "name": "PONPES Syahadat Tauhid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4775098,
+          -7.4936375
+        ]
+      },
+      "id": "node/9776303360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776303368",
+        "amenity": "school",
+        "name": "SD N Gebyog"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4698677,
+          -7.4986748
+        ]
+      },
+      "id": "node/9776303368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776303372",
+        "amenity": "school",
+        "name": "MI Senet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4715361,
+          -7.4959257
+        ]
+      },
+      "id": "node/9776303372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776303396",
+        "amenity": "school",
+        "name": "SD N 02 Jlarem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4735195,
+          -7.4088065
+        ]
+      },
+      "id": "node/9776303396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776303414",
+        "amenity": "school",
+        "name": "SD N 02 Ngadirejo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4876605,
+          -7.4220093
+        ]
+      },
+      "id": "node/9776303414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776478338",
+        "amenity": "school",
+        "name": "SD N Ringinsari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5089065,
+          -7.4321079
+        ]
+      },
+      "id": "node/9776478338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776478343",
+        "amenity": "school",
+        "name": "MI Salafiyah Plus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5118041,
+          -7.4353564
+        ]
+      },
+      "id": "node/9776478343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776478367",
+        "amenity": "school",
+        "name": "SMP Smaratungga Ampel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4914102,
+          -7.431534
+        ]
+      },
+      "id": "node/9776478367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776478377",
+        "amenity": "school",
+        "name": "SD N Ngargoloka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4953117,
+          -7.444079
+        ]
+      },
+      "id": "node/9776478377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776478392",
+        "amenity": "school",
+        "name": "SD N 02 Candisari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4945914,
+          -7.4523824
+        ]
+      },
+      "id": "node/9776478392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776478397",
+        "amenity": "school",
+        "name": "SD N 02 Ngagrong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4865029,
+          -7.4583996
+        ]
+      },
+      "id": "node/9776478397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776478405",
+        "amenity": "school",
+        "name": "Sekolah SD N 01 Ngagrong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4974305,
+          -7.465858
+        ]
+      },
+      "id": "node/9776478405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776951498",
+        "amenity": "school",
+        "name": "SD N Mriyan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5015801,
+          -7.5494339
+        ]
+      },
+      "id": "node/9776951498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776951509",
+        "amenity": "school",
+        "name": "SD N 01 Mriyan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5020367,
+          -7.5600773
+        ]
+      },
+      "id": "node/9776951509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776965321",
+        "amenity": "school",
+        "name": "SMP N 03 Musuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4990423,
+          -7.5710208
+        ]
+      },
+      "id": "node/9776965321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776965326",
+        "amenity": "school",
+        "name": "SD N 03 Sangup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4978749,
+          -7.5774573
+        ]
+      },
+      "id": "node/9776965326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641319",
+        "amenity": "school",
+        "name": "SD N 02 Jmebungan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6786388,
+          -7.5504722
+        ]
+      },
+      "id": "node/9778641319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641321",
+        "amenity": "school",
+        "name": "SMA N 01 Banyudono"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6857748,
+          -7.5496036
+        ]
+      },
+      "id": "node/9778641321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641323",
+        "amenity": "school",
+        "name": "SD N 03 Jembungan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6843414,
+          -7.5506018
+        ]
+      },
+      "id": "node/9778641323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641328",
+        "amenity": "school",
+        "name": "SMP N 02 Banyudono"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7002527,
+          -7.5550995
+        ]
+      },
+      "id": "node/9778641328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641337",
+        "amenity": "school",
+        "name": "SD N 01 Sambon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7173886,
+          -7.5525119
+        ]
+      },
+      "id": "node/9778641337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641338",
+        "amenity": "school",
+        "name": "SD MUhammadiyah Sambon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7171365,
+          -7.553275
+        ]
+      },
+      "id": "node/9778641338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641349",
+        "amenity": "school",
+        "name": "SD N 02 Sambon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7138085,
+          -7.5619237
+        ]
+      },
+      "id": "node/9778641349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641359",
+        "amenity": "school",
+        "name": "SMP N 02 Sawit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7132547,
+          -7.5686713
+        ]
+      },
+      "id": "node/9778641359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641360",
+        "amenity": "school",
+        "name": "SD N 02 Karangduren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7100347,
+          -7.5674584
+        ]
+      },
+      "id": "node/9778641360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641364",
+        "amenity": "school",
+        "name": "PONPES Al-Musthofa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7130567,
+          -7.5668381
+        ]
+      },
+      "id": "node/9778641364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641365",
+        "amenity": "school",
+        "name": "SD N 01 Karangudren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7136859,
+          -7.5675797
+        ]
+      },
+      "id": "node/9778641365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641375",
+        "amenity": "school",
+        "name": "MIM Karangduren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7105672,
+          -7.5724545
+        ]
+      },
+      "id": "node/9778641375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641390",
+        "amenity": "school",
+        "name": "PONPES Syabilla Rozad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7037569,
+          -7.5771004
+        ]
+      },
+      "id": "node/9778641390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641398",
+        "amenity": "school",
+        "name": "MIM PK Teguhan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7018854,
+          -7.5901622
+        ]
+      },
+      "id": "node/9778641398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641399",
+        "amenity": "school",
+        "name": "TK Aisyiyah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7015341,
+          -7.590129
+        ]
+      },
+      "id": "node/9778641399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641402",
+        "amenity": "school",
+        "name": "SMP N 01 Sawit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6977244,
+          -7.5893636
+        ]
+      },
+      "id": "node/9778641402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641403",
+        "amenity": "school",
+        "name": "PPTQ Nur Hidayah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.696111,
+          -7.5882734
+        ]
+      },
+      "id": "node/9778641403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641410",
+        "amenity": "school",
+        "name": "SD N 02 Manjung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6811239,
+          -7.5876153
+        ]
+      },
+      "id": "node/9778641410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641424",
+        "amenity": "school",
+        "name": "MI Kiyaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.67042,
+          -7.5740066
+        ]
+      },
+      "id": "node/9778641424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641426",
+        "amenity": "school",
+        "name": "TPA Abu Rizal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6758855,
+          -7.5791993
+        ]
+      },
+      "id": "node/9778641426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641430",
+        "amenity": "school",
+        "name": "SD NU Sawit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6802986,
+          -7.5814143
+        ]
+      },
+      "id": "node/9778641430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641432",
+        "amenity": "school",
+        "name": "RA Riyadhul Qur'an"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6798679,
+          -7.5766337
+        ]
+      },
+      "id": "node/9778641432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641434",
+        "amenity": "school",
+        "name": "SD N Kemasan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6817203,
+          -7.5770932
+        ]
+      },
+      "id": "node/9778641434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641448",
+        "amenity": "school",
+        "name": "SD N 01 Kemasan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6770921,
+          -7.5746636
+        ]
+      },
+      "id": "node/9778641448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641454",
+        "amenity": "school",
+        "name": "SD N 02 Cepoko Sawit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6803999,
+          -7.5708878
+        ]
+      },
+      "id": "node/9778641454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778641461",
+        "amenity": "school",
+        "name": "SD N 01 Cepoko Sawit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6895261,
+          -7.5677085
+        ]
+      },
+      "id": "node/9778641461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778676444",
+        "amenity": "school",
+        "name": "SD N 02 Dukuh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.683096,
+          -7.5593292
+        ]
+      },
+      "id": "node/9778676444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778676454",
+        "amenity": "school",
+        "name": "SD N 01 Dukuh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6758596,
+          -7.5570365
+        ]
+      },
+      "id": "node/9778676454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778676458",
+        "amenity": "school",
+        "name": "MI N 02 Boyolali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6759786,
+          -7.5511941
+        ]
+      },
+      "id": "node/9778676458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778676464",
+        "amenity": "school",
+        "name": "SD IT Bina Insani Banyudono"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6726249,
+          -7.5501677
+        ]
+      },
+      "id": "node/9778676464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779309432",
+        "amenity": "school",
+        "name": "PPTQ Da'arul Fath (Putri) Pengging"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6724603,
+          -7.5534431
+        ]
+      },
+      "id": "node/9779309432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779309433",
+        "amenity": "school",
+        "name": "PPTQ Da'arul Fath Pengging"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6721334,
+          -7.5566443
+        ]
+      },
+      "id": "node/9779309433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779309439",
+        "amenity": "school",
+        "name": "SD N 02 Bangsalan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6533374,
+          -7.5619066
+        ]
+      },
+      "id": "node/9779309439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779309441",
+        "amenity": "school",
+        "name": "TPQ Muhammad Asykar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6494738,
+          -7.5598511
+        ]
+      },
+      "id": "node/9779309441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779309443",
+        "amenity": "school",
+        "name": "SD N 01 Bangsalan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6481159,
+          -7.560558
+        ]
+      },
+      "id": "node/9779309443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779309451",
+        "amenity": "school",
+        "name": "SMA N 01 Teras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6411026,
+          -7.5549496
+        ]
+      },
+      "id": "node/9779309451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779309454",
+        "amenity": "school",
+        "name": "SD N 01 Sudimoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6433641,
+          -7.5596895
+        ]
+      },
+      "id": "node/9779309454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779309460",
+        "amenity": "school",
+        "name": "SD N 02 Sudimoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.640512,
+          -7.5582935
+        ]
+      },
+      "id": "node/9779309460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779309463",
+        "amenity": "school",
+        "name": "SD N 02 Nepen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6342018,
+          -7.5646654
+        ]
+      },
+      "id": "node/9779309463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779309471",
+        "amenity": "school",
+        "name": "SD N 01 Nepen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6314357,
+          -7.5686351
+        ]
+      },
+      "id": "node/9779309471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779309478",
+        "amenity": "school",
+        "name": "MI Jurug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6182952,
+          -7.5636327
+        ]
+      },
+      "id": "node/9779309478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779309480",
+        "amenity": "school",
+        "name": "SD N 01 Jurug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6205114,
+          -7.5612535
+        ]
+      },
+      "id": "node/9779309480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779309486",
+        "amenity": "school",
+        "name": "SD N 02 Jurug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6056385,
+          -7.5560394
+        ]
+      },
+      "id": "node/9779309486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779309496",
+        "amenity": "school",
+        "name": "SD N 01 Karangnongko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.593654,
+          -7.5568338
+        ]
+      },
+      "id": "node/9779309496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779309501",
+        "amenity": "school",
+        "name": "SD N 02 Karangnongko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5890843,
+          -7.5596146
+        ]
+      },
+      "id": "node/9779309501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779309510",
+        "amenity": "school",
+        "name": "SD N 02 Tambak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5851512,
+          -7.5679357
+        ]
+      },
+      "id": "node/9779309510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779309513",
+        "amenity": "school",
+        "name": "SMP N 01 Mojosongo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5905603,
+          -7.5639789
+        ]
+      },
+      "id": "node/9779309513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779327522",
+        "amenity": "school",
+        "name": "TPA Al-Istiqomah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5951925,
+          -7.5836224
+        ]
+      },
+      "id": "node/9779327522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779327523",
+        "amenity": "school",
+        "name": "TPQ Nur Ikhlas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5953022,
+          -7.582584
+        ]
+      },
+      "id": "node/9779327523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779327527",
+        "amenity": "school",
+        "name": "SD N 01 Tambak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5977336,
+          -7.5768255
+        ]
+      },
+      "id": "node/9779327527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779420138",
+        "amenity": "school",
+        "name": "SD N 04 Tambak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5980572,
+          -7.5724294
+        ]
+      },
+      "id": "node/9779420138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779420147",
+        "amenity": "school",
+        "name": "SD N 03 Tambak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5981643,
+          -7.5660165
+        ]
+      },
+      "id": "node/9779420147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779420155",
+        "amenity": "school",
+        "name": "PONPES Tahfudzul Qur'an"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.604314,
+          -7.5689297
+        ]
+      },
+      "id": "node/9779420155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779420160",
+        "amenity": "school",
+        "name": "SD N 02 Manggis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.611964,
+          -7.5700895
+        ]
+      },
+      "id": "node/9779420160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779420161",
+        "amenity": "school",
+        "name": "PONPES Dawar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.612459,
+          -7.5690178
+        ]
+      },
+      "id": "node/9779420161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779420165",
+        "amenity": "school",
+        "name": "MI Al-Falah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6159172,
+          -7.5702238
+        ]
+      },
+      "id": "node/9779420165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779420168",
+        "amenity": "school",
+        "name": "PONPES An-Najah Dawar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6194628,
+          -7.5667393
+        ]
+      },
+      "id": "node/9779420168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779420169",
+        "amenity": "school",
+        "name": "PONPES Al-Haris Dawar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6183631,
+          -7.5698076
+        ]
+      },
+      "id": "node/9779420169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779420170",
+        "amenity": "school",
+        "name": "PONPES Al-Ikhlas Dawar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.617545,
+          -7.5687095
+        ]
+      },
+      "id": "node/9779420170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779420177",
+        "amenity": "school",
+        "name": "SD N Manggis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6184571,
+          -7.5740026
+        ]
+      },
+      "id": "node/9779420177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9780592446",
+        "amenity": "school",
+        "name": "SD N 01 Keposong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5542489,
+          -7.5901077
+        ]
+      },
+      "id": "node/9780592446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9780592451",
+        "amenity": "school",
+        "name": "TPQ Nurul Karomah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5554386,
+          -7.5850665
+        ]
+      },
+      "id": "node/9780592451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9780592454",
+        "amenity": "school",
+        "name": "SD N 02 Keposong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5558866,
+          -7.5813939
+        ]
+      },
+      "id": "node/9780592454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9780592460",
+        "amenity": "school",
+        "name": "SD N 02 Karangkendal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5454429,
+          -7.5781299
+        ]
+      },
+      "id": "node/9780592460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9780592486",
+        "amenity": "school",
+        "name": "SD N 02 Sruni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5226882,
+          -7.5607701
+        ]
+      },
+      "id": "node/9780592486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9780592491",
+        "amenity": "school",
+        "name": "SD N 01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5164,
+          -7.5532774
+        ]
+      },
+      "id": "node/9780592491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9785498246",
+        "amenity": "school",
+        "name": "SD N Sugihan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5431053,
+          -7.4365434
+        ]
+      },
+      "id": "node/9785498246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9785498268",
+        "amenity": "school",
+        "name": "SD N Gondang Slamet 01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.563977,
+          -7.4379134
+        ]
+      },
+      "id": "node/9785498268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9785498269",
+        "amenity": "school",
+        "name": "SD N Gondang Slamet 02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5650971,
+          -7.4379355
+        ]
+      },
+      "id": "node/9785498269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9785498299",
+        "amenity": "school",
+        "name": "SD N Ngampon, Kec. Ampel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5846866,
+          -7.4441256
+        ]
+      },
+      "id": "node/9785498299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9785498311",
+        "amenity": "school",
+        "name": "SD N Ngenden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5715537,
+          -7.4513886
+        ]
+      },
+      "id": "node/9785498311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9785514817",
+        "amenity": "school",
+        "name": "SMK An-Nur Ampel, Boyolali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5747622,
+          -7.4593729
+        ]
+      },
+      "id": "node/9785514817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9785514818",
+        "amenity": "school",
+        "name": "SD IT An-Nur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5735574,
+          -7.4582199
+        ]
+      },
+      "id": "node/9785514818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9785514828",
+        "amenity": "school",
+        "name": "SD N Candi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5615557,
+          -7.45775
+        ]
+      },
+      "id": "node/9785514828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9785514830",
+        "amenity": "school",
+        "name": "PONPES Daar Al-Abror Ampel Boyolali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5594119,
+          -7.4555773
+        ]
+      },
+      "id": "node/9785514830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9785514836",
+        "amenity": "school",
+        "name": "SMP Islam Sudirman Ampel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5497437,
+          -7.4524559
+        ]
+      },
+      "id": "node/9785514836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9785514838",
+        "amenity": "school",
+        "name": "SMP N 01 Ampel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5526138,
+          -7.4517535
+        ]
+      },
+      "id": "node/9785514838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9785514840",
+        "amenity": "school",
+        "name": "SMP PGRI Ampel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5512317,
+          -7.4517807
+        ]
+      },
+      "id": "node/9785514840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9785514842",
+        "amenity": "school",
+        "name": "SMP Bhineka Karya 04 Ampel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5480229,
+          -7.4539208
+        ]
+      },
+      "id": "node/9785514842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9785514854",
+        "amenity": "school",
+        "name": "TPQ Inayah Fadlilatul Ummah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5603855,
+          -7.450923
+        ]
+      },
+      "id": "node/9785514854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787155833",
+        "amenity": "school",
+        "name": "MIN 01 Boyolali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5996689,
+          -7.5396628
+        ]
+      },
+      "id": "node/9787155833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787155834",
+        "amenity": "school",
+        "name": "MAN 01 Boyolali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5998168,
+          -7.5389298
+        ]
+      },
+      "id": "node/9787155834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787161464",
+        "amenity": "school",
+        "name": "SD N 02 Gondanglegi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6834742,
+          -7.3477839
+        ]
+      },
+      "id": "node/9787161464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787358717",
+        "amenity": "school",
+        "name": "SD N Bolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.684157,
+          -7.3126436
+        ]
+      },
+      "id": "node/9787358717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787358720",
+        "amenity": "school",
+        "name": "SMP NU 02 Wonosegoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6824221,
+          -7.3141236
+        ]
+      },
+      "id": "node/9787358720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787358724",
+        "amenity": "school",
+        "name": "SD N Bolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6814764,
+          -7.3178801
+        ]
+      },
+      "id": "node/9787358724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787358735",
+        "amenity": "school",
+        "name": "SD N 01 Kauman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6944708,
+          -7.3104526
+        ]
+      },
+      "id": "node/9787358735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787358736",
+        "amenity": "school",
+        "name": "SD N 02 Kauman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6945245,
+          -7.3100126
+        ]
+      },
+      "id": "node/9787358736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787358747",
+        "amenity": "school",
+        "name": "MI Muhammadiyah Cekelan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7011961,
+          -7.3045542
+        ]
+      },
+      "id": "node/9787358747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787358751",
+        "amenity": "school",
+        "name": "TPQ Ishlahun Nasuha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6817371,
+          -7.3019568
+        ]
+      },
+      "id": "node/9787358751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787358754",
+        "amenity": "school",
+        "name": "SD N Banyusri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6842472,
+          -7.3033232
+        ]
+      },
+      "id": "node/9787358754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787358757",
+        "amenity": "school",
+        "name": "SD N 02 Banyusri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6946919,
+          -7.2954331
+        ]
+      },
+      "id": "node/9787358757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787358768",
+        "amenity": "school",
+        "name": "SD N 02 Guwo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7093365,
+          -7.2863635
+        ]
+      },
+      "id": "node/9787358768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787358786",
+        "amenity": "school",
+        "name": "SD N Guwo 01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7141072,
+          -7.2734138
+        ]
+      },
+      "id": "node/9787358786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787358798",
+        "amenity": "school",
+        "name": "SD N 01 Lemahireng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7134671,
+          -7.2915469
+        ]
+      },
+      "id": "node/9787358798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787358799",
+        "amenity": "school",
+        "name": "SD N 02 Lemahireng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.71333,
+          -7.2920986
+        ]
+      },
+      "id": "node/9787358799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787358816",
+        "amenity": "school",
+        "name": "SD N Bawu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7335215,
+          -7.3038497
+        ]
+      },
+      "id": "node/9787358816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787358823",
+        "amenity": "school",
+        "name": "SD N Bawu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7374484,
+          -7.311665
+        ]
+      },
+      "id": "node/9787358823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787358828",
+        "amenity": "school",
+        "name": "SD N Bawu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7398421,
+          -7.3233622
+        ]
+      },
+      "id": "node/9787358828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787358834",
+        "amenity": "school",
+        "name": "SD N 02 Kadipaten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7449157,
+          -7.3330529
+        ]
+      },
+      "id": "node/9787358834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787358838",
+        "amenity": "school",
+        "name": "SD N 02 Kadipaten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7510414,
+          -7.3339106
+        ]
+      },
+      "id": "node/9787358838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787358839",
+        "amenity": "school",
+        "name": "SD N 03 Kadipaten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7467731,
+          -7.326532
+        ]
+      },
+      "id": "node/9787358839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787358848",
+        "amenity": "school",
+        "name": "SD N Pakang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7608785,
+          -7.3517717
+        ]
+      },
+      "id": "node/9787358848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787491764",
+        "amenity": "school",
+        "name": "TK Pertiwi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6699316,
+          -7.293907
+        ]
+      },
+      "id": "node/9787491764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787491765",
+        "amenity": "school",
+        "name": "SD N Gosono"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.669666,
+          -7.2940214
+        ]
+      },
+      "id": "node/9787491765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787491779",
+        "amenity": "school",
+        "name": "SD N Garangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.654324,
+          -7.2906659
+        ]
+      },
+      "id": "node/9787491779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787491782",
+        "amenity": "school",
+        "name": "SD N Garangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6512977,
+          -7.2847484
+        ]
+      },
+      "id": "node/9787491782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787491801",
+        "amenity": "school",
+        "name": "SMP NU 01 Wonosegoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6520175,
+          -7.2654933
+        ]
+      },
+      "id": "node/9787491801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787491802",
+        "amenity": "school",
+        "name": "SD N Garangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6520792,
+          -7.2652335
+        ]
+      },
+      "id": "node/9787491802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787492027",
+        "amenity": "school",
+        "name": "SD N Gunungsari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6521204,
+          -7.2443795
+        ]
+      },
+      "id": "node/9787492027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787492032",
+        "addr:city": "boyolali",
+        "addr:district": "wonosamodro",
+        "addr:housenumber": "1",
+        "addr:neighbourhood": "5",
+        "addr:postcode": "57382",
+        "addr:province": "jawa tengah",
+        "addr:street": "kalikidang",
+        "addr:subdistrict": "repaking",
+        "amenity": "school",
+        "denomination": "sunni",
+        "education": "school",
+        "grades": "1-12",
+        "name": "Al-Idrus Kalikidang",
+        "phone": "+62 813-9091-5811",
+        "religion": "muslim",
+        "website": "https://alidrus.or.id/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6444904,
+          -7.2380528
+        ]
+      },
+      "id": "node/9787492032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787492034",
+        "amenity": "school",
+        "name": "MTs SA Al-Idrus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6438669,
+          -7.2377355
+        ]
+      },
+      "id": "node/9787492034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787492046",
+        "amenity": "school",
+        "name": "MI Islamiyah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6412186,
+          -7.2292108
+        ]
+      },
+      "id": "node/9787492046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787492050",
+        "amenity": "school",
+        "name": "SMP Muhammadiyah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6380454,
+          -7.2209163
+        ]
+      },
+      "id": "node/9787492050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787492053",
+        "amenity": "school",
+        "name": "SD N Repaking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6364656,
+          -7.2247906
+        ]
+      },
+      "id": "node/9787492053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787492055",
+        "amenity": "school",
+        "name": "SD N 01 Repaking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6368384,
+          -7.2288964
+        ]
+      },
+      "id": "node/9787492055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787492060",
+        "amenity": "school",
+        "name": "SMA N 01 Wonosegoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6383861,
+          -7.23123
+        ]
+      },
+      "id": "node/9787492060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787492067",
+        "amenity": "school",
+        "name": "SD N Repaking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6280768,
+          -7.2293013
+        ]
+      },
+      "id": "node/9787492067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787877823",
+        "amenity": "school",
+        "name": "SD N 02 Jatilawang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6361145,
+          -7.282111
+        ]
+      },
+      "id": "node/9787877823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787877825",
+        "amenity": "school",
+        "name": "TPA Ar-Rohman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6382696,
+          -7.2859873
+        ]
+      },
+      "id": "node/9787877825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787877839",
+        "amenity": "school",
+        "name": "SD N Gilirejo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6085757,
+          -7.2955479
+        ]
+      },
+      "id": "node/9787877839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787877855",
+        "amenity": "school",
+        "name": "SD N 01 Kalinanas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6107012,
+          -7.3157203
+        ]
+      },
+      "id": "node/9787877855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787877864",
+        "amenity": "school",
+        "name": "SD N Ngablak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6168239,
+          -7.3286223
+        ]
+      },
+      "id": "node/9787877864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787877866",
+        "amenity": "school",
+        "name": "SD N 01 Ngablak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6180846,
+          -7.3245467
+        ]
+      },
+      "id": "node/9787877866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787877867",
+        "amenity": "school",
+        "name": "TK Budi Lestari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6182589,
+          -7.3247782
+        ]
+      },
+      "id": "node/9787877867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9788271147",
+        "amenity": "school",
+        "name": "SD N 02 Mongkrong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6349992,
+          -7.3199658
+        ]
+      },
+      "id": "node/9788271147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9788271148",
+        "amenity": "school",
+        "name": "SMP N 02 Wonosegoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6370136,
+          -7.3189868
+        ]
+      },
+      "id": "node/9788271148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9788271154",
+        "amenity": "school",
+        "name": "TPA Al-Taqwa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6432253,
+          -7.3152485
+        ]
+      },
+      "id": "node/9788271154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9788271164",
+        "amenity": "school",
+        "name": "SD N Karangjati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6498507,
+          -7.3213821
+        ]
+      },
+      "id": "node/9788271164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9788271168",
+        "amenity": "school",
+        "name": "MTs N Wonosegoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6548453,
+          -7.3212455
+        ]
+      },
+      "id": "node/9788271168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9788271171",
+        "amenity": "school",
+        "name": "SD N Ketoyan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6566106,
+          -7.3196521
+        ]
+      },
+      "id": "node/9788271171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9788271173",
+        "amenity": "school",
+        "name": "SMP Muhammadiyah 05 Wonosegoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.658663,
+          -7.3195015
+        ]
+      },
+      "id": "node/9788271173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9788271180",
+        "amenity": "school",
+        "name": "TPA Sabilul Muttaqin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.661559,
+          -7.3165576
+        ]
+      },
+      "id": "node/9788271180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9788271182",
+        "amenity": "school",
+        "name": "Madrasah Diniyah Miftahul Ulum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6630348,
+          -7.3158082
+        ]
+      },
+      "id": "node/9788271182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9788271183",
+        "amenity": "school",
+        "name": "MI Da'arul Ulum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.663456,
+          -7.3157257
+        ]
+      },
+      "id": "node/9788271183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9788271200",
+        "amenity": "school",
+        "name": "TK Pertiwi Seworan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6653082,
+          -7.3200955
+        ]
+      },
+      "id": "node/9788271200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9788271202",
+        "amenity": "school",
+        "name": "SD N Seworan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6648941,
+          -7.3206887
+        ]
+      },
+      "id": "node/9788271202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9788271210",
+        "amenity": "school",
+        "name": "SD N Karangjati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6530844,
+          -7.3232517
+        ]
+      },
+      "id": "node/9788271210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9788277627",
+        "amenity": "school",
+        "name": "SD N 01 Klari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6474626,
+          -7.34229
+        ]
+      },
+      "id": "node/9788277627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9788277631",
+        "amenity": "school",
+        "name": "SMA N 01 Karanggede"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6460671,
+          -7.3432379
+        ]
+      },
+      "id": "node/9788277631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9788277635",
+        "amenity": "school",
+        "name": "SD N 02 Klari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.645793,
+          -7.3449208
+        ]
+      },
+      "id": "node/9788277635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11219455164",
+        "addr:city": "Boyolali",
+        "addr:place": "Kalimati, Juwangi",
+        "addr:postcode": "57391",
+        "amenity": "school",
+        "name": "SD Negeri 1 Kalimati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7436471,
+          -7.2167013
+        ]
+      },
+      "id": "node/11219455164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12047024310",
+        "addr:city": "Boyolali",
+        "addr:district": "Gladagsari",
+        "addr:housename": "Kaligentong",
+        "addr:postcode": "57352",
+        "addr:province": "Central Java",
+        "addr:subdistrict": "Kaligentong",
+        "addr:unit": "Ngaduman",
+        "amenity": "school",
+        "grades": "1-6",
+        "name": "SDN 3 Ampel",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5320606,
+          -7.4521913
+        ]
+      },
+      "id": "node/12047024310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13255256232",
+        "addr:district": "Andong",
+        "addr:housename": "SD Negeri Tempuran",
+        "addr:neighbourhood": "15",
+        "addr:street": "Jalan Kacangan-Pelemrejo",
+        "addr:subdistrict": "Pranggong",
+        "addr:unit": "Sekolah",
+        "amenity": "school",
+        "education": "school",
+        "grades": "1-6",
+        "image": "https://drive.google.com/file/d/1sFqyDQBP0UoaWMesbJEh9ozEcmbCz7qr/view?usp=sharing",
+        "name": "SD Negeri Tempuran",
+        "operator": "Supyani",
+        "operator:type": "public",
+        "website": "sdntempuranandong@gmail.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7745307,
+          -7.3539905
+        ]
+      },
+      "id": "node/13255256232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13719163802",
+        "addr:street": "Sranten, Kaworan, Sranten, Kec. Karanggede, Kabupaten Boyolali",
+        "amenity": "school",
+        "name": "SD SRANTEN 1",
+        "name:en": "Sranten Elementary School 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6458373,
+          -7.365052
+        ]
+      },
+      "id": "node/13719163802"
+    }
+  ]
+}
