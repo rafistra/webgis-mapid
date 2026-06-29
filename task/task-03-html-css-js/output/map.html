@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GunungTrack - Map</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav class="navbar">
+        <a class="navbar-brand" href="index.html">GunungTrack</a>
+        <button class="nav-toggle" onclick="document.querySelector('.nav-menu').classList.toggle('show')"></button>
+        <ul class="nav-menu">
+            <li><a href="index.html">Home</a></li>
+            <li><a class="active" href="map.html">Map</a></li>
+            <li><a href="about.html">About</a></li>
+        </ul>
+    </nav>
+
+    <header class="hero">
+        <h1>Peta Gunung Jawa Tengah</h1>
+        <h2>Visualisasi lokasi gunung dan jalur pendakian</h2>
+    </header>
+
+    <main>
+
+        <section>
+            <div class="card">
+                <div class="card-header">Peta Interaktif - Jawa Tengah</div>
+                <div class="card-body">
+                    <iframe class="map-frame"
+                        src="https://www.openstreetmap.org/export/embed.html?bbox=108.9%2C-7.8%2C111.2%2C-6.5&layer=mapnik"
+                        title="Peta Jawa Tengah"
+                        allowfullscreen
+                        loading="lazy">
+                    </iframe>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h4>Gambar Gunung</h4>
+            <div class="grid grid-2">
+                <div class="card">
+                    <img src="https://ik.imagekit.io/tvlk/blog/2024/08/shutterstock_2275655955.jpg?tr=q-70,c-at_max,w-1000,h-600">
+                    <div class="card-body">
+                        <h5>Gunung Sindoro</h5>
+                        <p>Ketinggian 3.153 mdpl - Temanggung, Wonosobo</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLqL_qsKN1CDa8fDQIw4EcZl7_5M1T5Rj7Yg8bkeUz9ZRMjo_tSHPpVWoR&s=10" alt="Gunung" onerror="this.src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gunung_Merbabu_dari_Gunung_Merapi.jpg/1280px-Gunung_Merbabu_dari_Gunung_Merapi.jpg'">
+                    <div class="card-body">
+                        <h5>Gunung Merbabu</h5>
+                        <p>Ketinggian 3.145 mdpl - Magelang, Boyolali, Semarang</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h4>Lokasi Gunung</h4>
+            <div class="grid grid-3">
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5>Gunung Slamet</h5>
+                        <p>3.428 mdpl</p>
+                        <span class="badge badge-danger">Aktif</span>
+                    </div>
+                </div>
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5>Gunung Sumbing</h5>
+                        <p>3.371 mdpl</p>
+                        <span class="badge badge-success">Tidak Aktif</span>
+                    </div>
+                </div>
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5>Gunung Sindoro</h5>
+                        <p>3.153 mdpl</p>
+                        <span class="badge badge-danger">Aktif</span>
+                    </div>
+                </div>
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5>Gunung Merbabu</h5>
+                        <p>3.145 mdpl</p>
+                        <span class="badge badge-success">Tidak Aktif</span>
+                    </div>
+                </div>
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5>Gunung Prau</h5>
+                        <p>2.565 mdpl</p>
+                        <span class="badge badge-success">Tidak Aktif</span>
+                    </div>
+                </div>
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5>Gunung Ungaran</h5>
+                        <p>2.050 mdpl</p>
+                        <span class="badge badge-success">Tidak Aktif</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>2026 GunungTrack | Rafi Fistra Ali</p>
+    </footer>
+
+</body>
+</html>

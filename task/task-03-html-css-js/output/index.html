@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GunungTrack - Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav class="navbar">
+        <a class="navbar-brand" href="index.html">GunungTrack</a>
+        <button class="nav-toggle" onclick="document.querySelector('.nav-menu').classList.toggle('show')">&#9776;</button>
+        <ul class="nav-menu">
+            <li><a class="active" href="index.html">Home</a></li>
+            <li><a href="map.html">Map</a></li>
+            <li><a href="about.html">About</a></li>
+        </ul>
+    </nav>
+
+    <header class="hero">
+        <h1>GunungTrack</h1>
+        <h2>Informasi Jalur Pendakian Gunung di Indonesia</h2>
+        <p>WebGIS interaktif untuk menampilkan informasi jalur pendakian gunung,<br>
+            dimulai dari wilayah pilot <strong>Jawa Tengah</strong></p>
+    </header>
+
+    <main>
+
+        <section>
+            <h3>Tentang Proyek</h3>
+            <div class="grid grid-2">
+                <p>WebGIS ini dibuat untuk menampilkan informasi jalur pendakian gunung di Indonesia, mencakup lokasi gunung, jalur pendakian, profil elevasi, titik-titik penting di sepanjang jalur (pos, sumber air, area camp), status buka/tutup jalur, kondisi cuaca, serta status aktivitas gunung berapi.</p>
+                <p>Cakupan awal difokuskan pada gunung-gunung populer di Jawa Tengah: <strong>Gunung Merbabu, Sindoro, Sumbing, Prau, dan Slamet</strong> sebagai studi kasus, dengan rancangan yang dapat diperluas ke seluruh Indonesia.</p>
+            </div>
+        </section>
+
+        <section>
+            <h3>Daftar Gunung di Jawa Tengah</h3>
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Nama Gunung</th>
+                            <th>Ketinggian (mdpl)</th>
+                            <th>Kabupaten/Kota</th>
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Gunung Slamet</td>
+                            <td>3.428</td>
+                            <td>Brebes, Banyumas, Purbalingga, Pemalang, Tegal</td>
+                            <td><span class="badge badge-danger">Aktif</span></td>
+                        </tr>
+                        <tr>
+                            <td>Gunung Sumbing</td>
+                            <td>3.371</td>
+                            <td>Magelang, Temanggung, Wonosobo</td>
+                            <td><span class="badge badge-success">Tidak Aktif</span></td>
+                        </tr>
+                        <tr>
+                            <td>Gunung Sindoro</td>
+                            <td>3.153</td>
+                            <td>Temanggung, Wonosobo</td>
+                            <td><span class="badge badge-danger">Aktif</span></td>
+                        </tr>
+                        <tr>
+                            <td>Gunung Merbabu</td>
+                            <td>3.145</td>
+                            <td>Magelang, Boyolali, Semarang</td>
+                            <td><span class="badge badge-success">Tidak Aktif</span></td>
+                        </tr>
+                        <tr>
+                            <td>Gunung Prau</td>
+                            <td>2.565</td>
+                            <td>Wonosobo, Kendal, Batang</td>
+                            <td><span class="badge badge-success">Tidak Aktif</span></td>
+                        </tr>
+                        <tr>
+                            <td>Gunung Ungaran</td>
+                            <td>2.050</td>
+                            <td>Semarang, Kendal</td>
+                            <td><span class="badge badge-success">Tidak Aktif</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <section>
+            <h3>Jalur Pendakian Populer</h3>
+            <div class="grid grid-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h5>Gunung Prau</h5>
+                        <p>Via Dieng, Patak Banteng</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-body">
+                        <h5>Gunung Merbabu</h5>
+                        <p>Via Selo, Wekas, Suwanting</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-body">
+                        <h5>Gunung Sindoro</h5>
+                        <p>Via Kledung, Tambi</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-body">
+                        <h5>Gunung Slamet</h5>
+                        <p>Via Bambangan, Guci</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-body">
+                        <h5>Gunung Sumbing</h5>
+                        <p>Via Garung, Bowongso</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h3>Kota Basecamp Pendakian</h3>
+            <div class="grid grid-2">
+                <ul class="list-group">
+                    <li>1. Wonosobo - gerbang menuju Dieng dan Gunung Prau</li>
+                    <li>2. Magelang - akses ke Gunung Sumbing dan Merbabu</li>
+                    <li>3. Temanggung - basecamp Gunung Sindoro dan Sumbing</li>
+                </ul>
+                <ul class="list-group">
+                    <li>4. Boyolali - jalur pendakian Gunung Merbabu via Selo</li>
+                    <li>5. Purbalingga - akses Gunung Slamet via Bambangan</li>
+                </ul>
+            </div>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>2026 GunungTrack | Rafi Fistra Ali</p>
+    </footer>
+
+</body>
+</html>

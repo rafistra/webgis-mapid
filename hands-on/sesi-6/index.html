@@ -1,0 +1,229 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gunung di Jawa Tengah</title>
+  </head>
+  <!-- UNTUK CSS -->
+
+
+    <style>
+
+
+    .judul {
+        color: blue;
+        font-size: 24px;
+        font-weight: bold;
+        font-family:'Arial';
+    }
+
+
+    .teks{
+        color:#5b5b5b;
+        font-size: 20px;
+        margin: 20px;
+        padding: 20px;
+        border: 1px solid black;
+    }
+
+
+    .deskripsi {color: brown;}
+
+
+    .kepala {
+        background-color: #010149ee;
+        color: white;
+        padding: 20px;
+        border-radius: 10px;
+    }
+
+
+    .konten {
+        background-color: #daebfd;
+        padding: 10px;
+        height: 100vh;
+    }
+
+
+    .kartu {
+        border: 1px solid rgb(255, 255, 255);
+        border-radius: 10px;
+        padding: 20px;
+        margin: 10px;
+        height: 400px;
+        flex-grow: 1;
+    }
+
+
+    .wadah-kartu {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+
+  </style>
+
+
+  <body>
+    <header class="kepala">
+        <h1>Gunung-Gunung di Jawa Tengah</h1>
+        <h2>Menjelajahi Keindahan Alam Pegunungan</h2>
+        <h3>Provinsi Jawa Tengah, Indonesia</h3>
+        <h4>Informasi Geografi & Pendakian</h4>
+
+
+        <p class="deskripsi">Jawa Tengah memiliki deretan gunung yang memukau <br></br>
+            <strong>dari Gunung Slamet hingga Gunung Merbabu</strong></p>
+
+
+    </header>
+
+
+    <hr></hr>
+
+
+    <main>
+
+
+    <div class="konten">
+            <p> Daftar Gunung di Jawa Tengah </p>
+            <div>
+                <table>
+                    <tr>
+                        <th>Nama Gunung</th>
+                        <th>Ketinggian (mdpl)</th>
+                        <th>Kabupaten/Kota</th>
+                        <th>Status</th>
+                    </tr>
+                    <tr>
+                        <td>Gunung Slamet</td>
+                        <td>3.428</td>
+                        <td>Brebes, Banyumas, Purbalingga, Pemalang, Tegal</td>
+                        <td>Aktif</td>
+                    </tr>
+                    <tr>
+                        <td>Gunung Sumbing</td>
+                        <td>3.371</td>
+                        <td>Magelang, Temanggung, Wonosobo</td>
+                        <td>Tidak Aktif</td>
+                    </tr>
+                    <tr>
+                        <td>Gunung Sindoro</td>
+                        <td>3.153</td>
+                        <td>Temanggung, Wonosobo</td>
+                        <td>Aktif</td>
+                    </tr>
+                    <tr>
+                        <td>Gunung Merbabu</td>
+                        <td>3.145</td>
+                        <td>Magelang, Boyolali, Semarang</td>
+                        <td>Tidak Aktif</td>
+                    </tr>
+                    <tr>
+                        <td>Gunung Prau</td>
+                        <td>2.565</td>
+                        <td>Wonosobo, Kendal, Batang</td>
+                        <td>Tidak Aktif</td>
+                    </tr>
+                    <tr>
+                        <td>Gunung Ungaran</td>
+                        <td>2.050</td>
+                        <td>Semarang, Kendal</td>
+                        <td>Tidak Aktif</td>
+                    </tr>
+                </table>
+            </div>
+
+
+            <!-- jalur pendakian populer -->
+            <ul>
+                <li>Gunung Prau — via Dieng, Patak Banteng</li>
+                <li>Gunung Merbabu — via Selo, Wekas, Suwanting</li>
+                <li>Gunung Sindoro — via Kledung, Tambi</li>
+                <li>Gunung Slamet — via Bambangan, Guci</li>
+                <li>Gunung Sumbing — via Garung, Bowongso</li>
+            </ul>
+
+
+            <p class="teks"> Jawa Tengah merupakan salah satu provinsi dengan jumlah gunung terbanyak di Pulau Jawa. Gunung-gunung ini menjadi destinasi favorit para pendaki dari seluruh Indonesia. </p>
+
+
+            <!-- kota basecamp pendakian -->
+            <ol>
+                <li>Wonosobo — gerbang menuju Dieng dan Gunung Prau</li>
+                <li>Magelang — akses ke Gunung Sumbing dan Merbabu</li>
+                <li>Temanggung — basecamp Gunung Sindoro dan Sumbing</li>
+                <li>Boyolali — jalur pendakian Gunung Merbabu via Selo</li>
+                <li>Purbalingga — akses Gunung Slamet via Bambangan</li>
+            </ol>
+
+
+            <!-- input cari info gunung -->
+            <input type="text" placeholder="Nama gunung..."></input>
+            <input type="number" placeholder="Ketinggian (mdpl)..."></input>
+            <input type="date"></input>
+
+
+            <div class="wadah-kartu">
+                <div class="kartu">
+          <img src="gunung.jpg" width="400"></img>
+                </div>
+                <div class="kartu"> Gunung Sindoro </div>
+                <div class="kartu"> Gunung Prau </div>
+            </div>
+    </div>
+
+
+    <!-- halaman gunung jawa tengah -->
+
+
+    <br></br>
+        <!-- tag link -->
+         <!-- linkedin -->
+         <a href="https://www.linkedin.com/in/mochammadrifqinaufalalfayyadh/" target="_blank">linkedin</a>
+         <!-- instagram -->
+         <a href="https://www.instagram.com/?hl=en" target="_blank">instagram</a>
+
+
+         <!-- tag gambar -->
+          <!-- gambar gunung sindoro dari internet -->
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Mount_Sindoro%2C_Java%2C_2014-05-01.jpg/1280px-Mount_Sindoro%2C_Java%2C_2014-05-01.jpg"></img>
+
+
+          <!-- gambar gunung dari file lokal -->
+          <img src="gunung.jpg"></img>
+
+
+          <!-- gambar gedung -->
+          <img src="gambar/gedung.jpg"></img>
+
+
+          <!-- link youtube bergambar -->
+          <a href="https://www.youtube.com/">
+            <img width="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH0YWYcactLQ7iJwU5YfNM-A7no4PC-QA2gwo7qbLi85I-hG2Cb2bHM4w&s=10"/>
+            </a>
+
+
+            <!-- iframe peta jawa tengah -->
+        <iframe
+        src="https://www.openstreetmap.org/export/embed.html?bbox=108.9%2C-7.8%2C111.2%2C-6.5&layer=mapnik"
+        width="600"
+        height="400"
+        style="border:1px solid #ccc;"
+        title="Peta Jawa Tengah"
+        allowfullscreen
+        loading="lazy"
+      ></iframe>
+
+
+    </main>
+
+
+    <footer>
+        <p>copyright 2026</p>
+    </footer>
+  </body>
+</html>

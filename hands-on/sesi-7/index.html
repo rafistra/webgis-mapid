@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sesi 7 - JavaScript Dasar</title>
+    <style>
+      .text {
+        color: red;
+      }
+    </style>
+  </head>
+
+  <body>
+    <script>
+      // ==================== VARIABEL ====================
+
+      // CONST — tidak bisa diubah setelah dideklarasikan
+      const tinggi_merbabu = 3145;
+      // tinggi_merbabu = 3200; // ERROR: const tidak boleh diubah
+
+      const lokasi_gunung = "Jawa Tengah";
+      const negara = "Indonesia";
+
+      // LET — bisa diubah (misal: status cuaca bisa berubah)
+      let cuaca_puncak = "Cerah";
+      cuaca_puncak = "Berkabut";
+
+      // VAR — hindari penggunaan, gunakan let/const
+      var jumlah_pendaki = 50;
+
+      // ==================== CONSOLE.LOG ====================
+
+      console.log("Tinggi Merbabu:", tinggi_merbabu, "mdpl");
+      console.log("Cuaca puncak saat ini:", cuaca_puncak);
+
+      // ==================== TIPE DATA PRIMITIF ====================
+
+      const nama_gunung = "Merapi"; // String
+      const ketinggian = 2930; // Number
+      const apakah_aktif = true; // Boolean (benar)
+      const apakah_aman_didaki = false; // Boolean (salah)
+      const jalur_pendakian_baru = null; // Null (belum ada)
+      let estimasi_waktu_tempuh; // Undefined
+
+      // ==================== TIPE DATA NON PRIMITIF ====================
+
+      // Array
+      const gunung_jawa_tengah = [
+        "Merapi",
+        "Merbabu",
+        "Sindoro",
+        "Sumbing",
+        "Slamet",
+        "Prau",
+      ];
+      const ketinggian_gunung = [2930, 3145, 3153, 3371, 3428, 2590];
+
+      console.log(gunung_jawa_tengah); // seluruh array
+      console.log("Gunung tertinggi ke-2:", gunung_jawa_tengah[3]); // "Sumbing" (index ke-3)
+      console.log("Gunung paling populer:", gunung_jawa_tengah[0]); // "Merapi" (index ke-0)
+
+      // Object — { key: value }
+      const gunung_merapi = {
+        nama: "Merapi",
+        ketinggian: 2930,
+        status: "aktif",
+        kabupaten: "Sleman & Klaten",
+      };
+
+      const gunung_sindoro = {
+        nama: "Sindoro",
+        ketinggian: 3153,
+        status: "normal",
+        kabupaten: "Temanggung & Wonosobo",
+      };
+
+      console.log(gunung_merapi.nama); // dot notation → "Merapi"
+      console.log(gunung_sindoro["ketinggian"]); // bracket notation → 3153
+
+      // ==================== OPERASI MATEMATIKA ====================
+
+      const tinggi_sindoro = 3153;
+      const tinggi_sumbing = 3371;
+
+      const selisih_tinggi = tinggi_sumbing - tinggi_sindoro;
+      console.log("Selisih Sumbing - Sindoro:", selisih_tinggi, "meter"); // 218
+
+      const total_tinggi = tinggi_sindoro + tinggi_sumbing;
+      console.log("Total tinggi Sindoro + Sumbing:", total_tinggi, "meter"); // 6524
+
+      const rata_rata = total_tinggi / 2;
+      console.log("Rata-rata ketinggian:", rata_rata, "meter"); // 3262
+
+      const luas_kawasan_km = 6;
+      const luas_kawasan_m = luas_kawasan_km * 1000;
+      console.log("Luas kawasan:", luas_kawasan_m, "meter"); // 6000
+
+      // ==================== OPERATOR PERBANDINGAN ====================
+
+      console.log("Sumbing > Sindoro?", tinggi_sumbing > tinggi_sindoro); // true
+      console.log("Merapi > Merbabu?", 2930 > 3145); // false
+      console.log("Slamet >= 3400?", 3428 >= 3400); // true
+      console.log("Prau <= 2500?", 2590 <= 2500); // false
+
+      // == vs === (perbedaan penting)
+      console.log(3153 == "3153"); // true  — bandingkan NILAI saja (type coercion)
+      console.log(3153 === "3153"); // false — bandingkan NILAI + TIPE DATA
+      console.log(3153 === 3153); // true  — nilai dan tipe sama
+      console.log(2930 != 3145); // true  — Merapi dan Merbabu beda tinggi
+
+      // ==================== OPERATOR LOGIKA ====================
+
+      const gunung_aktif = true;
+      const jalur_dibuka = false;
+      const cuaca_bagus = true;
+
+      // && (AND) — true jika SEMUA kondisi true
+      console.log("Aktif DAN jalur dibuka?", gunung_aktif && jalur_dibuka); // false
+
+      // || (OR) — true jika SALAH SATU kondisi true
+      console.log("Jalur dibuka ATAU cuaca bagus?", jalur_dibuka || cuaca_bagus); // true
+
+      // ! (NOT) — membalik nilai
+      console.log("Jalur TIDAK dibuka?", !jalur_dibuka); // true
+
+      // Kombinasi: boleh mendaki jika jalur dibuka DAN cuaca bagus
+      const boleh_mendaki = jalur_dibuka && cuaca_bagus;
+      console.log("Boleh mendaki?", boleh_mendaki); // false
+    </script>
+  </body>
+</html>
